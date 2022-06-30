@@ -1,0 +1,149 @@
+#cabecalho{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/140px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg);
+    width: auto;
+    color: rgb(14, 13, 13);
+    height: 160px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top:10px;
+    font-family: Calibri;
+}
+.Doces{
+    background-color: coral;
+}
+.centralizado {
+    background-color: rgb(182, 240, 199);
+    border: 2px solid rgb(252, 157, 223);
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+
+}
+
+h1{
+    font-family: Calibri;
+}
+ 
+p{
+ font-family: calibri;
+}
+
+h2{
+    font-family: calibri;
+}
+
+ul{
+    font-family: calibri;
+}
+ol{
+    font-family: calibri;
+}
+
+#rodape{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/140px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg);              
+    width: auto;
+    color:black;
+    height: 160px;
+    margin: 20px auto;
+    padding-left:20px;
+    padding-top: 5px;
+}
+
+.receita{
+    float: right;
+}
+
+
+
+
+.imagem{
+   float: left;
+   margin: 0;
+   padding: 10px;
+}
+
+.texto{
+float: rigth;
+margin: 0;
+padding: 25px;
+
+
+}
+
+.PAI{
+   float: left;
+   
+      
+}
+
+.Ingredientes{
+   float: right;
+       
+     
+}
+
+.Baunilha{
+   float: left;
+   
+}
+
+.Branco{
+   float: right;
+}
+
+.livro{
+   color:#050501;
+   font-family: Calibri;
+   background-color:coral
+
+}
+.deliciosa{
+   color: #f71616;
+
+}
+
+.canela{
+    float: left;
+}
+
+.maçã{
+    float: right;
+}
+
+body{
+    background-color:hsl(29, 84%, 83%);
+}
+
+table{
+    font-family: calibri;
+    background-color: coral;
+    margin-left: auto;
+    margin-right: auto;
+    
+}  
+
+
+.amarelo{
+    float: left;
+}
+
+.maracujá{
+    float: right;
+}
+
+.Formiga{
+    float:left ;
+}
+
+.formigueiro{
+    float: right;
+}
+
+.chocolate{
+    float: left;
+}
+
+.fofa{
+    float: right;
+    margin-left: auto;
+}
